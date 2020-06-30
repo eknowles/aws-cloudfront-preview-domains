@@ -2,6 +2,8 @@
 
 This repo contains the Terraform code to build a CDN with feature branch subdomains.
 
+Article => https://medium.com/@nedknowles/preview-environments-in-aws-with-cloudfront-and-lambda-edge-7acccb0b67d1
+
 I've set out the HCL code to be as easy to read as possible, it's not meant to represent a final project structure,instead it should serve to help new engineers understand the bare bones of what's needed.
  
 The core steps to enable this is as follows:
